@@ -1,0 +1,11 @@
+{
+  "name": "use-grunt",
+  "version": "1.0.0",
+  "description": "grunt usage sample",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-browser-sync": "^2.2.0"
+  }
+}
